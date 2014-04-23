@@ -11,6 +11,9 @@ def maska_bit (adres):
 	maska=adres[(adres.find('/')+1):len(str(adres))]
 	return maska
 
+def mask_bin:
+    pass
+
 ''' Funkcja zamienia adres IP na postać binarną '''
 def IP_bin (adres):
 	i=0
