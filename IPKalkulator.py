@@ -14,6 +14,9 @@ def maska_bit (adres):
 def mask_bin:
     pass
 
+def testowa(wartosc):
+    pass
+
 ''' Funkcja zamienia adres IP na postać binarną '''
 def IP_bin (adres):
 	i=0
